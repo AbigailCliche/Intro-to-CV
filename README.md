@@ -1,4 +1,5 @@
 # Knowlege Acquired
 
-* Basic image manipulation with MATLAB 
+* Basic image manipulation in MATLAB 
+* Figure formatting in MATLAB
 * Convolutional Filtering
